@@ -1,0 +1,18 @@
+[
+    {
+      "id": 101,
+      "name": "Lead Management",
+      "description": "Artificial Intelligence research and development."
+    },
+    {
+      "id": 102,
+      "name": "Visa Management",
+      "description": "Big Data analysis and visualization."
+    },
+    {
+        "id": 103,
+        "name": "Notification System",
+        "description": "To provide notification event based"
+      }
+  ]
+  

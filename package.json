@@ -2,11 +2,15 @@
   "name": "employee-data-api",
   "version": "1.0.0",
   "description": "Create 2 APIs, providing the following details: ➢ First API would take the Employee Id as Input and Queries the underlying JSON File to fetch Employee Data at: (localhost:3000/employee/:id) ➢ Second API would take the Project ID as input a nd Query the JSON File to fetch Project Information at: ( localhost:3000/project/:id)",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Vikrant Kalayan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1"
+  }
 }
